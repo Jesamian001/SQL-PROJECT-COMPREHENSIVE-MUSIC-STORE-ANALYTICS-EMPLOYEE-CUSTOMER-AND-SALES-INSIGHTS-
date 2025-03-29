@@ -1,6 +1,7 @@
 # SQL-PROJECT-COMPREHENSIVE-MUSIC-STORE-ANALYTICS-EMPLOYEE-CUSTOMER-AND-SALES-INSIGHTS-
 ![title github](https://github.com/user-attachments/assets/befcbe33-a398-4170-a6ec-54fdf3d3a44a)
-## This project focuses on analyzing data from various aspects of a music store, utilizing 11 interconnected tables. By exploring the employee, customer, invoice, invoice_line, track, media_type, genre, album, artist, playlist_track, and playlist tables, the project aims to provide insights into sales trends, customer behavior, and employee performance. Key analyses include identifying top-selling albums and tracks, understanding customer preferences, tracking sales by genre, and evaluating the effectiveness of playlists.
+## PROJECT DESCRIPTION
+This project focuses on analyzing data from various aspects of a music store, utilizing 11 interconnected tables. By exploring the employee, customer, invoice, invoice_line, track, media_type, genre, album, artist, playlist_track, and playlist tables, the project aims to provide insights into sales trends, customer behavior, and employee performance. Key analyses include identifying top-selling albums and tracks, understanding customer preferences, tracking sales by genre, and evaluating the effectiveness of playlists.
 
 
 ## DATABASE SCHEMA IMAGE
